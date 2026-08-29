@@ -1,4 +1,4 @@
-# Call Center Performance & Customer Satisfaction Analysis
+# Power Bi : Call Center Performance & Customer Satisfaction Analysis
 
 ## Project Overview
 This project presents an interactive Power BI dashboard designed to monitor and analyze Call Center operations, key service level metrics, agent performance, and customer satisfaction (CSAT) scores. Using transactional call logs, the dashboard tracks critical call center KPIs, identifies operational bottlenecks across support topics, and ranks agent effectiveness to enable data-driven workforce management.
